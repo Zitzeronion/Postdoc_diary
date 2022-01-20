@@ -99,4 +99,19 @@ They are located at Stubmøllevej 43, 2450 København
 ### Work - OpenFOAM
 
 - [ ] Reading up on C++ to understand the OOP framework of OpenFOAM
+
+Followed Johans suggestion and clicking through the tutorials at [cplusplus.com](https://www.cplusplus.com/doc/tutorial/classes/).
+
 - [ ] Read OpenFOAM literature
+- [x] Watch OpenFOAM youtube tutorials
+- [ ] Watch Johans OpenFOAM youtube lecture
+
+## January 20th 2022
+
+### Living in Denmark
+
+- [x] Appointment with SIRI for having a EU-certificate
+
+### Work - OpenFoam
+
+-[ ] Run the interFoam damBreak tutorial
